@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "nombre": "Chocolate cake",
+        "descripcion": "A delicious black chocolate cake with smooth layers and an indulgent frosting.",
+        "imagen": "https://resizer.glanacion.com/resizer/UBoHYxv9dZErS9_kjyoRbMQfdrk=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/5G4LZ5WTM5H4RHWT257DEGRZQU.jpg",
+        "categoria": "desserts",
+        "precio": 15.99
+      },
+    {
+        "id": 2,
+        "nombre": "Strawberry tart",
+        "descripcion": "A fresh tart that contains juicy strawberries on a crispy base.",
+        "imagen": "https://i.ytimg.com/vi/3wmLon0_7yI/maxresdefault.jpg",
+        "categoria": "desserts",
+        "precio": 12.50
+    },
+    {
+        "id": 3,
+        "nombre": "Oatmeal cookies",
+        "descripcion": "Homemade oatmeal cookies with chocolate chunks and a hint of cinnamon.",
+        "imagen": "https://www.conasi.eu/blog/wp-content/uploads/2013/03/galletas-de-avena-1.jpg",
+        "categoria": "sweets",
+        "precio": 8.75
+    },
+    {
+        "id": 4,
+        "nombre": "Brownie",
+        "descripcion": "A dense and delicious brownie, packed with walnuts and chocolate.",
+        "imagen": "https://bakeitwithlove.com/wp-content/uploads/2022/12/Fudge-Brownies-sq.jpg",
+        "categoria": "desserts",
+        "precio": 10.25
+    },
+    {
+        "id": 5,
+        "nombre": "Cheesecake",
+        "descripcion": "Classic cheesecake with a cookie crust, topped with red berry sauce.",
+        "imagen": "https://www.tictacyummy.com/wp-content/uploads/2020/04/PortadaWeb-12-800x530.jpg",
+        "categoria": "desserts",
+        "precio": 14.99
+    },
+    {
+        "id": 6,
+        "nombre": "Green tea",
+        "descripcion": "Gentle and revitalizing green tea, packed with antioxidants and health benefits.",
+        "imagen": "https://www.tododisca.com/wp-content/uploads/2021/09/personas-que-no-deben-tomar-te-verde-infusion.jpg",
+        "categoria": "tea",
+        "precio": 5.99
+    },
+    {
+        "id": 7,
+        "nombre": "Chamomile tea",
+        "descripcion": "Soothing chamomile tea, perfect for unwinding before sleep.",
+        "imagen": "https://www.cocina-cubana.com/base/stock/Recipe/196-image/196-image_web.jpg",
+        "categoria": "tea",
+        "precio": 4.50
+    },
+    {
+        "id": 8,
+        "nombre": "Red fruit tea",
+        "descripcion": "Red fruit tea with a vibrant blend of flavors and colors.",
+        "imagen": "https://www.cardamomo.news/__export/1616077519264/sites/debate/img/2021/03/18/tx_de_frutos_rojos_crop1616077471220.jpeg_242310155.jpeg",
+        "categoria": "tea",
+        "precio": 6.75
+    },
+    {
+        "id": 9,
+        "nombre": "Chai tea",
+        "descripcion": "Spiced chai tea with a unique blend of herbs and spices from afar.",
+        "imagen": "https://www.splenda.com/wp-content/themes/bistrotheme/assets/recipe-images/chai-tea-blend.jpg",
+        "categoria": "tea",
+        "precio": 7.25
+    },
+    {
+        "id": 10,
+        "nombre": "Mint tea",
+        "descripcion": "Refreshing and invigorating mint tea, perfect for a revitalizing afternoon.",
+        "imagen": "https://mejorconsalud.as.com/wp-content/uploads/2018/02/te-menta.jpg",
+        "categoria": "tea",
+        "precio": 5.50
+    },
+    {
+        "id": 11,
+        "nombre": "Assorted chocolates",
+        "descripcion": "A selection of fine chocolates with a variety of fillings and exquisite flavors.",
+        "imagen": "https://www.chocolateecologico.com/recursos/IMG_076422_G.jpg",
+        "categoria": "sweets",
+        "precio": 9.99
+    },
+    {
+        "id": 12,
+        "nombre": "Marshmallows",
+        "descripcion": "Soft and fluffy marshmallows, perfect for making smores or enjoying on their own.",
+        "imagen": "https://placeralplato.com/files/2016/07/Malvaviscos-caseros-640x480.jpg?width=1200&enable=upscale",
+        "categoria": "sweets",
+        "precio": 3.50
+    },
+    {
+        "id": 13,
+        "nombre": "Caramel popcorn",
+        "descripcion": "Popcorn coated with crunchy caramel, a delightful sweet and salty treat.",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/93135B2C-F156-4D48-B07A-6D51D73545A3/Derivates/c229f6d2-ffef-47a1-82e7-f5d48bea13f1.jpg",
+        "categoria": "sweets",
+        "precio": 5.25
+    },
+    {
+        "id": 14,
+        "nombre": "Cotton candy",
+        "descripcion": "Brightly colored cotton candy, a classic carnival treat.",
+        "imagen": "https://aprende.guatemala.com/wp-content/uploads/2021/09/Receta-para-hacer-algod%C3%B3n-de-az%C3%BAcar-al-estilo-guatemalteco.jpg",
+        "categoria": "sweets",
+        "precio": 2.99
+    },
+    {
+        "id": 15,
+        "nombre": "bubble tea",
+        "descripcion": "A refreshing and delicious milk tea beverage with tapioca pearls.",
+        "imagen": "https://www.imperialsugar.com/sites/default/files/recipe/Boba-Tea-imperial.jpg",
+        "categoria": "tea",
+        "precio": 1.75
+    },
+    {
+        "id": 16,
+        "nombre": "Dessert and Tea Promotion",
+        "descripcion": "Combine a delicious dessert with a cup of tea at a special price.",
+        "imagen": "https://media.traveler.es/photos/61377dd87ad90bc43bae0dcf/4:3/w_1064,h_798,c_limit/27208.jpg",
+        "categoria": "promotions",
+        "precio": 20.99
+    },
+    {
+        "id": 17,
+        "nombre": "Assorted Sweets Combo",
+        "descripcion": "A combo that includes a variety of sweets to satisfy all cravings.",
+        "imagen": "https://i.pinimg.com/originals/e0/e8/51/e0e851d7e4f3476c64000a2e1470495d.png",
+        "categoria": "promotions",
+        "precio": 12.99
+    },
+    {
+        "id": 18,
+        "nombre": "House Tea Special",
+        "descripcion": "Enjoy our house tea with a special limited-time offer.",
+        "imagen": "https://images.ecestaticos.com/65XFmZbTm9SFvTauXVDt4DPJ4bQ=/13x154:2122x1281/600x315/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffea%2Fdb3%2Ff58%2Ffeadb3f5898d10c311fb0bed2694a0ad.jpg",
+        "categoria": "promotions",
+        "precio": 8.99
+    },
+    {
+        "id": 19,
+        "nombre": "Cake Discount",
+        "descripcion": "Take advantage of this discount on a selection of delicious cakes.",
+        "imagen": "https://i.ytimg.com/vi/uZ8iLEk62-0/maxresdefault.jpg",
+        "categoria": "promotions",
+        "precio": 16.50
+    },
+    {
+        "id": 20,
+        "nombre": "Dessert Sharing Package",
+        "descripcion": "A box that includes a variety of desserts perfect for sharing with friends.",
+        "imagen": "https://www.elbullidor.com/cajas-regalo/wp-content/uploads/2021/07/pack2-1.jpg",
+        "categoria": "promotions",
+        "precio": 25.75
+    },
+    {
+        "id": 21,
+        "nombre": "Alfajores de Maicena",
+        "descripcion": "Delicate alfajores de maicena filled with dulce de leche and coated with powdered sugar.",
+        "imagen": "https://www.euroresidentes.com/alimentacion/comida/wp-content/uploads/sites/3/2017/03/postre-argentina-alfajores.jpg",
+        "categoria": "sweets",
+        "precio": 15.99
+    }
+]
